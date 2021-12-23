@@ -1,0 +1,18 @@
+p {
+    color: rebeccapurple;
+    background-color:lightcyan;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.images {
+    text-align: center;
+    width: 100px;
+    height: auto;
+}
