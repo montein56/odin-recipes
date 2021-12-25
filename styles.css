@@ -12,7 +12,17 @@ h1 {
 }
 
 .images {
-    text-align: center;
-    width: 100px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    width: 150px;
     height: auto;
+}
+
+l1 {
+    color: cornflowerblue;
+}
+
+.indexP {
+    background-color: darksalmon;
 }
